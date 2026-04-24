@@ -1,0 +1,9 @@
+*.o
+*.out
+*.exe
+test
+core.*
+*.log
+.vscode/
+.idea/
+__pycache__/
